@@ -14,4 +14,4 @@ Order of running files is:
 1. data_creation.py (Needs CelebA dataset downloaded)
 2. save_mat.py
 3. code.py
-# Face_Image_Classification_Using_ANN
+
